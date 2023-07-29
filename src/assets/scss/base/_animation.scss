@@ -1,0 +1,12 @@
+@use '../utilities/' as *;
+
+.open {
+  animation: open-menu 500ms forwards ease-out;
+}
+@keyframes open-menu {
+  100% {
+    right: 0;
+  }
+}
+
+

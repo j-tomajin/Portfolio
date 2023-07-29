@@ -14,6 +14,7 @@ h6 {
 /* A elements that don't have a class get default styles */
 a, a:focus, a:visited {
     text-decoration: none;
+    color: $link;
 }
 
 a:not([class]) {
