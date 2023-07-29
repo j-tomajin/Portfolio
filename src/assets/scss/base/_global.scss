@@ -1,0 +1,5 @@
+@use '../utilities/' as *;
+
+.class {
+  font-size: clampf(16, 375, 780, 32);
+}

@@ -1,0 +1,13 @@
+@use '../utilities/' as *;
+
+:root {
+    --sample: white;
+    
+    // sample
+
+    // @each $color, $shades in $colors {
+    //     @each $shade, $value in $shades {
+    //         --clr-#{$color}-#{$shade}: #{$value};
+    //     }
+    // }
+}
