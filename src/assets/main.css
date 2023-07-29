@@ -1,1 +1,6 @@
 @import './css/style.css';
+
+#app {
+  width: min(calc(100% - 32px), 1000px);
+  margin-inline: auto;
+}
