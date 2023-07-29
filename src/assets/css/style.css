@@ -149,6 +149,6 @@ a:not([class]) {
 
 @keyframes open-menu {
   100% {
-    right: 0;
+    top: 100%;
   }
 }/*# sourceMappingURL=style.css.map */
